@@ -3,7 +3,7 @@
 <h3 align="center">A future Designer & Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir-hossain-abir&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir-hossain-abir" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/314873/screenshots/4000731/diggi-media.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
 
 - 🔭 I’m currently working on [Uni Buddy](https://github.com/sabbir-hossain-abir/Uni_buddy)
 

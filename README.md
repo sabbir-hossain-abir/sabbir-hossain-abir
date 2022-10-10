@@ -1,13 +1,13 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGJhGy_ckfO7A/profile-displaybackgroundimage-shrink_350_1400/0/1593323936160?e=1664409600&v=beta&t=4RVGwWl-_kQ5oMqRTlAJ7rjDpELfYajaJQeKqowd1Jw)
+![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGJhGy_ckfO7A/profile-displaybackgroundimage-shrink_350_1400/0/1593323936160?e=1671062400&v=beta&t=uYjxDRWuGqz2R7U675GWBOfvi8opQJjTz5gteX4Tp8M)
 <h1 align="center">Hi 👋, I'm Sabbir Hossain Abir</h1>
 <h3 align="center">A future Designer & Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir-hossain-abir&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir-hossain-abir" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
 
-- 🔭 I’m currently working on [Uni Buddy](https://github.com/sabbir-hossain-abir/Uni_buddy)
+- 🔭 I’m currently working on [Omni Food](https://github.com/sabbir-hossain-abir/omni-food)
 
-- 🌱 I’m currently learning **Kotlin, Oracle SQL**
+- 🌱 I’m currently learning **Javascript, React**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/sabbirabir](https://www.behance.net/sabbirabir)
 

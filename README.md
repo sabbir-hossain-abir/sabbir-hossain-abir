@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir-hossain-abir&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir-hossain-abir" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
 
-- 🔭 I’m currently working on [Omni Food](https://github.com/sabbir-hossain-abir/omnifood.github.io)
+- 🔭 I’m currently working on [Bike Book](https://github.com/sabbir-hossain-abir/BikeBook)
 
-- 🌱 I’m currently learning **Javascript, React**
+- 🌱 I’m currently learning **Javascript, React, Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/sabbirabir](https://www.behance.net/sabbirabir)
 

@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Bike Book](https://github.com/sabbir-hossain-abir/BikeBook)
 
-- 🌱 I’m currently learning **Javascript, React, Nodejs**
+- 🌱 I’m currently learning **Javascript, React, Nodejs, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/sabbirabir](https://www.behance.net/sabbirabir)
 

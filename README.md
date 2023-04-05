@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/sabbirabir](https://www.behance.net/sabbirabir)
 
-- 😄 Pronouns **He/Him**
+- 😄 Pronouns **He**
 
 - 📫 How to reach me **sabbir.abirs99@gmail.com**
 

@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [GhoraGhuri](https://github.com/sabbir-hossain-abir/GhoraGhuri-A-tour-management-service)
 
-- 🌱 I’m currently learning **Javascript, React, Nodejs, MongoDB**
+- 🌱 I’m currently learning **Javascript, React, Nodejs, MongoDB, Postman**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/sabbirabir](https://www.behance.net/sabbirabir)
 
